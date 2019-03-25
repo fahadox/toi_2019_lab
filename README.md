@@ -11,10 +11,15 @@ because that's the version that comes with Mac OS and we don't have
 Python 3 installed.  
 
 To start lab1:
+
 1) To start jupyter notebook, in terminal:
+
 ```
 jupyter notebook
 ```
+
 This will open a window in your web browser.
+
 2) Navigate to your project
+
 3) Open Lab1_notebook.ipynb to start
