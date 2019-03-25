@@ -12,14 +12,14 @@ Python 3 installed.
 
 To start lab1:
 
-1) To start jupyter notebook, in terminal:
+1) In terminal, navigate to your working folder
+
+2) To start jupyter notebook, in terminal:
 
 ```
 jupyter notebook
 ```
 
 This will open a window in your web browser.
-
-2) Navigate to your project
 
 3) Open Lab1_notebook.ipynb to start
